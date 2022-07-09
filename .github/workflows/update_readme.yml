@@ -22,12 +22,12 @@ jobs:
           fetch-depth: 0
       - name: Update README
         run: |
-          sh update.sh ${{ inputs.text }}
+          sh update.sh "${{ inputs.text }}"
       - name: Commit
         run: |
           git config --local user.email "${{ env.GITHUB_EMAIL }}"
           git config --local user.name "${{ env.GITHUB_NAME }}"
-          git commit -a -m 'Update README on $(date +%Y/%m/%d)'
+          git commit -a -m "Update README on $(date +%Y-%m-%d)"
       - name: Push
         uses: ad-m/github-push-action@master
         with:
