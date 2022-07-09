@@ -1,0 +1,34 @@
+name: Update README
+
+on:
+  workflow_dispatch:
+    inputs:
+      text:
+        description: 'text'
+        required: true
+
+env:
+  GITHUB_EMAIL: imchench@gmail.com
+  GITHUB_NAME: z1cheng(bot)
+
+jobs:
+  sync:
+    name: Update
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Update README
+        run: |
+          sh update.sh ${{ inputs.text }}
+      - name: Commit
+        run: |
+          git config --local user.email "${{ env.GITHUB_EMAIL }}"
+          git config --local user.name "${{ env.GITHUB_NAME }}"
+          git commit -a -m 'Update README on $(date +%Y/%m/%d)'
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
