@@ -2,4 +2,4 @@
 
 Hi~ This is Chen Chen👋
 
-My heart rate on 2022-07-16 is 54～112 bpm
+My heart rate on 2022-07-17 is 59～115 bpm
