@@ -1,4 +1,3 @@
 #!/bin/sh
 
-sed -i '$d' README.md
-echo "$1" >> README.md
+sed -i "s/^My heart rate.*/$1/" README.md
