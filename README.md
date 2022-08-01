@@ -1,7 +1,5 @@
 ### 👋Hi~ I'm Chen
 
-Email address: me@chenchen.link
-
 My heart rate on 2022-07-31 is 59～129 bpm💖
 
 ### 🧐 Github Stats
