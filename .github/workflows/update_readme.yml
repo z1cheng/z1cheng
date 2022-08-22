@@ -27,7 +27,7 @@ jobs:
         run: |
           git config --local user.email "${{ env.GITHUB_EMAIL }}"
           git config --local user.name "${{ env.GITHUB_NAME }}"
-          git commit -a -m "Update README on $(date +%Y-%m-%d)"
+          git commit -a -m "Update README.md and archives on $(date +%Y-%m-%d)"
       - name: Push
         uses: ad-m/github-push-action@master
         with:
