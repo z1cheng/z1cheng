@@ -1,5 +1,15 @@
 #!/bin/sh
 
-text="My heart rate on $(date +%F) is $1💖"
-sed -i "s/^My heart rate.*/$text/" README.md
-echo "$(date +%F): $1" >>./archives/heart_rate
+time=$(date +%F)
+todayRate="My heart rate on $time is $1💖"
+
+sed -i "s/^My heart rate.*/$todayRate/" README.md
+
+
+archivePath="./archives/heart_rate"
+archiveText="$time: $1"
+if grep -q $time $archivePath; then
+    sed -i "s/^$time.*/$archiveText/" $archivePath
+else
+    echo "$archiveText" >>$archivePath
+fi
