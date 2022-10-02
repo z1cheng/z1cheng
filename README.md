@@ -1,6 +1,6 @@
 ### 👋Hi~ I'm Chen
 
-My heart rate on 2022-10-01 is 58～113 bpm💖
+My heart rate on 2022-10-02 is 59～177 bpm💖
 
 ### 🐈 My Cat
 Yep, he is so cool!
