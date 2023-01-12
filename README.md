@@ -1,6 +1,6 @@
 ### 👋Hi~ I'm Chen
 
-My heart rate on 2023-01-10 is 63～121 bpm💖
+My heart rate on 2023-01-12 is 63～155 bpm💖
 
 ### 🐈 My Cat
 Yep, he is so cool!
