@@ -1,4 +1,6 @@
-### 👋Hi~ I'm Chen
+### 👋 Hi~ I'm Chen 
+
+![](https://komarev.com/ghpvc/?username=z1cheng&style=flat)
 
 My heart rate on 2023-05-30 is 60～146 bpm💖
 
@@ -9,3 +11,4 @@ Yep, he is so cool!
 
 ### 🧐 Github Stats
 [![github stats](https://github-readme-stats.vercel.app/api?username=z1cheng&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
