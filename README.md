@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=z1cheng&style=flat)
 
-My heart rate on 2023-06-27 is 58～131 bpm💖
+My heart rate on 2023-06-28 is 58～136 bpm💖
 
 ### 🐈 My Cat
 Yep, he is so cool!
