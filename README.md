@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=z1cheng&style=flat)
 
-My heart rate on 2023-07-19 is 58～146 bpm💖
+My heart rate on 2023-07-20 is 59～105 bpm💖
 
 ### 🐈 My Cat
 Yep, he is so cool!
