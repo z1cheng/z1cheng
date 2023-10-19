@@ -1,7 +1,5 @@
 ### 👋 Hi~ I'm Chen 
 
-![](https://komarev.com/ghpvc/?username=z1cheng&style=flat)
-
 My heart rate on 2023-10-18 is 59～126 bpm💖
 
 ### 🐈 My Cat
