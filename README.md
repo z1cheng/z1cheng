@@ -5,7 +5,7 @@ My heart rate on 2023-11-30 is 50～194 bpm💖
 ### 🐈 My Cat
 Yep, he is so cool!
 
-Find him on [Xiaohongshu(小红书)](https://www.xiaohongshu.com/user/profile/5f0565e100000000010051f5).
+You can find him on [Xiaohongshu(小红书)](https://www.xiaohongshu.com/user/profile/5f0565e100000000010051f5).
 
 <img src="/images/mycat.jpg" width="300px" />
 
