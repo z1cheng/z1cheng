@@ -1,6 +1,6 @@
 ### 👋 Hi~ I'm Chen 
 
-My heart rate on 2024-06-25 is 64～130 bpm💖
+My heart rate on 2024-06-26 is 64～125 bpm💖
 
 ### 🐈 My Cat
 Yep, he is so cool!
