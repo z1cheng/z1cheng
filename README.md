@@ -12,3 +12,7 @@ You can find him on [Xiaohongshu(小红书)](https://www.xiaohongshu.com/user/pr
 ### 🧐 Github Stats
 [![github stats](https://github-readme-stats.vercel.app/api?username=z1cheng&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### 🎖 My Badges
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
