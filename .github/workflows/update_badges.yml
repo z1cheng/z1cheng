@@ -16,4 +16,5 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: chenchen # optional, but default will use the same from github
-          BADGE_SIZE: 100
+          BADGE_SIZE: 150
+          CREDLY_SORT: POPULAR
