@@ -1,11 +1,9 @@
-### 👋 Hi~ I'm Chen 
+### <img src="/images/wave.gif" width="30"> Hey there
 
-My heart rate on 2024-08-12 is 62～136 bpm💖
+Feel free to <a href="mailto:imchench@gmail.com"><b>email</b></a> me.
 
 ### 🐈 My Cat
 Yep, he is so cool!
-
-You can find him on [Xiaohongshu(小红书)](https://www.xiaohongshu.com/user/profile/5f0565e100000000010051f5).
 
 <img src="/images/mycat.jpg" width="300px" />
 
