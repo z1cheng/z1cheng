@@ -28,5 +28,8 @@ Yep, he is so cool!
   <a href="https://www.credly.com/badges/22e1be6e-3886-4af7-8c5f-c801c89a33b0">
     <img src="https://images.credly.com/images/6f551508-5228-49a8-987f-d944bf34d7ff/image.png" alt="M365 APAC Innovation Day 2024" width="150px" height="150px"/>
   </a>
+  <a href="https://www.credly.com/badges/55355690-1681-4148-8640-ef7f64399e5b">
+    <img src="https://images.credly.com/images/c5af23c8-2a73-44bf-bbad-3480da39808e/blob" alt="Microsoft Global Hackathon 2025" width="150px" height="150px"/>
+  </a>
 </div>
 <!--END_SECTION:badges-->
